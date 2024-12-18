@@ -1,0 +1,6 @@
+###
+POST http://0.0.0.0:8000/v1/nerc/extract
+Content-Type: text/plain
+Accept: application/json
+
+"Arartekoak jakinarazi duenez, ebazpen bat helarazi dio Eusko Jaurlaritzako Segurtasun Sailari, hizkuntza eskubideak ez errespetatzeagatik bi herritarrek jarri kexa baten ondorioz. 2023ko azaroaren 11n jarri zuten kexa, «Ertzaintza patruila batek tratu desegokia eman ziela salatzeko», Arartekoak agiriz zabaldu duenez. 602 euroko «zehapen proposamen bat» jaso zuten, gainera, bi herritar horiek «ertzainei behin eta berriz euskaraz artatuak izateko eskatu ondoren izandako istilu batean»."
